@@ -1,0 +1,12 @@
+const  Register = require ("../routers/register");
+const express = require("express");
+const router = express.Router();
+
+
+router.post("/register",async (req, res ) => {
+    try{
+
+    }catch{
+        
+    }
+});

@@ -8,9 +8,7 @@ const app = express()
 
 
 
-app.get("/home", (req, res ) => {
-    res.send(sum)
-});
+
 
 listen(app);
 Database(momgoose);
