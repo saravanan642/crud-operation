@@ -1,4 +1,4 @@
-const  Register = require ("../routers/register");
+const  Register = require ("./RegisterRouter");
 const express = require("express");
 const router = express.Router();
 
